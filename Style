@@ -1,0 +1,25 @@
+/* 1. Design variables */
+:root {
+    --primary: #244B67;
+    --secondary: #A8CBD3;
+    --background: #F5F8FA;
+    --text: #303A40;
+    --white: #FFFFFF;
+
+    --font-main: Arial, sans-serif;
+}
+
+/* 2. Basic browser reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 3. General page styling */
+body {
+    font-family: var(--font-main);
+    background-color: var(--background);
+    color: var(--text);
+    line-height: 1.6;
+}
