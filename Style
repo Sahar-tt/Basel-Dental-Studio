@@ -23,3 +23,53 @@ body {
     color: var(--text);
     line-height: 1.6;
 }
+/* 4. Typography */
+body {
+    font-family: 'DM Sans', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Manrope', sans-serif;
+}
+
+/* 5. Header */
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 7%;
+    background: var(--white);
+}
+
+.logo {
+    font-family: 'Manrope', sans-serif;
+    font-size: 22px;
+    font-weight: 800;
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.logo span {
+    color: var(--secondary);
+}
+
+.main-nav {
+    display: flex;
+    gap: 30px;
+}
+
+.main-nav a {
+    text-decoration: none;
+    color: var(--text);
+    font-size: 14px;
+}
+
+.header-button,
+.primary-button {
+    background: var(--primary);
+    color: var(--white);
+    padding: 13px 22px;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+}
