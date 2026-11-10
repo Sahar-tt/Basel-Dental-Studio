@@ -27,5 +27,3 @@ The website is designed to help visitors explore dental services, learn about th
 Website currently in development.
 
 ---
-
-*This is a fictional practice created for a web design recruitment assignment. It does not represent an operating dental clinic.*
