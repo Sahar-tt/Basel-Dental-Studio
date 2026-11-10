@@ -1,0 +1,173 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Basel Dental Studio | A Fresh Perspective on Dental Care</title>
+
+    <meta name="description" content="Discover a friendly, modern approach to dental care at Basel Dental Studio.">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header class="site-header">
+        <a href="#" class="logo">Basel<span>Dental</span>Studio</a>
+
+        <nav class="main-nav">
+            <a href="#about">Our approach</a>
+            <a href="#services">Services</a>
+            <a href="#contact">Contact</a>
+        </nav>
+
+        <a href="#contact" class="header-button">Request an appointment</a>
+    </header>
+
+
+    <main>
+
+        <!-- Hero Section -->
+        <section class="hero">
+
+            <div class="hero-content">
+                <p class="eyebrow">DENTAL CARE, WITH A FRESH PERSPECTIVE</p>
+
+                <h1>A healthier smile starts with feeling at ease.</h1>
+
+                <p class="hero-description">
+                    Modern dentistry, a welcoming atmosphere,
+                    and care that puts people first.
+                </p>
+
+                <a href="#contact" class="primary-button">
+                    Get in touch
+                </a>
+            </div>
+
+            <div class="hero-image">
+                <img
+                    src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=1200&q=85"
+                    alt="Modern dental care environment">
+            </div>
+
+        </section>
+
+
+        <!-- Introduction -->
+        <section class="intro" id="about">
+
+            <p class="eyebrow">A DIFFERENT KIND OF DENTAL EXPERIENCE</p>
+
+            <h2>Care that begins with listening.</h2>
+
+            <p>
+                We believe a visit to the dentist should feel comfortable,
+                personal, and reassuring. Our concept brings together
+                contemporary dental care and a thoughtful approach to
+                every patient's experience.
+            </p>
+
+        </section>
+
+
+        <!-- Services -->
+        <section class="services" id="services">
+
+            <div class="section-heading">
+                <p class="eyebrow">WHAT WE OFFER</p>
+                <h2>Care for every smile.</h2>
+            </div>
+
+            <div class="service-grid">
+
+                <article class="service-card">
+                    <span>01</span>
+                    <h3>General Dentistry</h3>
+                    <p>
+                        Everyday dental care with a focus on comfort
+                        and prevention.
+                    </p>
+                </article>
+
+                <article class="service-card">
+                    <span>02</span>
+                    <h3>Dental Hygiene</h3>
+                    <p>
+                        Professional cleaning and guidance for
+                        maintaining oral health.
+                    </p>
+                </article>
+
+                <article class="service-card">
+                    <span>03</span>
+                    <h3>Cosmetic Dentistry</h3>
+                    <p>
+                        Thoughtful options for enhancing the
+                        appearance of your smile.
+                    </p>
+                </article>
+
+                <article class="service-card">
+                    <span>04</span>
+                    <h3>Preventive Care</h3>
+                    <p>
+                        Supporting long-term oral health through
+                        regular check-ups and advice.
+                    </p>
+                </article>
+
+            </div>
+
+        </section>
+
+
+        <!-- Contact -->
+        <section class="contact" id="contact">
+
+            <div class="contact-content">
+                <p class="eyebrow">YOUR NEXT STEP</p>
+
+                <h2>Let's make your next visit a positive one.</h2>
+
+                <p>
+                    Have a question or want to enquire about an appointment?
+                    Send us a message.
+                </p>
+
+                <a href="mailto:hello@example.com" class="primary-button">
+                    Send an enquiry
+                </a>
+
+                <p class="demo-note">
+                    Concept website — contact details are illustrative.
+                </p>
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <a href="#" class="logo">Basel<span>Dental</span>Studio</a>
+
+        <p>Basel, Switzerland</p>
+
+        <p>© 2026 Basel Dental Studio — Website concept</p>
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>
